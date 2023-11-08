@@ -1,3 +1,3 @@
 # valorant_agent
 
-A new Flutter project.
+Submission Belajar Membuat Aplikasi Flutter untuk Pemula.
