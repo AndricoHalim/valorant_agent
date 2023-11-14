@@ -1,3 +1,3 @@
 # valorant_agent
 
-Submission Belajar Membuat Aplikasi Flutter untuk Pemula.
+Aplikasi Agent Valorant menggunakan Flutter
